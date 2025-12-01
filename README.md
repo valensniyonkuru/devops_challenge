@@ -5,3 +5,10 @@ Create a working directory
  Create directories: logs/, configs/, scripts/
 ----------------------------------------------
 <img width="1015" height="435" alt="image" src="https://github.com/user-attachments/assets/523fa936-854c-4042-b5c5-f8982b6e8e29" />
+
+Challenge Extension
+----------------
+Add logic to your script so that if the directories already exist, it doesn’t recreate them but
+-------------------------------------------------------
+simply prints: "Directory already exists: [directory_name]".
+----------------------------------------------------------
