@@ -18,3 +18,7 @@ Expected Output Example
 ----------------------
 <img width="1893" height="952" alt="image" src="https://github.com/user-attachments/assets/836cffff-9218-41f9-911d-b7a1f5b9ca09" />
 
+Permissions Overview
+-------------------
+
+<img width="1804" height="939" alt="image" src="https://github.com/user-attachments/assets/9e06d3f0-4177-4097-ab63-e79c33d7b3ff" />
