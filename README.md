@@ -12,3 +12,9 @@ Add logic to your script so that if the directories already exist, it doesn’t 
 -------
 simply prints: "Directory already exists: [directory_name]".
 --------
+<img width="1444" height="946" alt="image" src="https://github.com/user-attachments/assets/12bb5d22-f61c-4566-8ad0-44c5791f9bed" />
+
+Expected Output Example
+----------------------
+<img width="1893" height="952" alt="image" src="https://github.com/user-attachments/assets/836cffff-9218-41f9-911d-b7a1f5b9ca09" />
+
